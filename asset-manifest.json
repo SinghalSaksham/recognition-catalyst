@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/recognition-catalyst/static/css/main.17047565.chunk.css",
+    "main.js": "/recognition-catalyst/static/js/main.42b254ea.chunk.js",
+    "main.js.map": "/recognition-catalyst/static/js/main.42b254ea.chunk.js.map",
+    "runtime-main.js": "/recognition-catalyst/static/js/runtime-main.65c6d5b9.js",
+    "runtime-main.js.map": "/recognition-catalyst/static/js/runtime-main.65c6d5b9.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/recognition-catalyst/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.bc48dc6c.chunk.js": "/recognition-catalyst/static/js/2.bc48dc6c.chunk.js",
+    "static/js/2.bc48dc6c.chunk.js.map": "/recognition-catalyst/static/js/2.bc48dc6c.chunk.js.map",
+    "index.html": "/recognition-catalyst/index.html",
+    "precache-manifest.f2c446b09039771f38e5c47315aa4854.js": "/recognition-catalyst/precache-manifest.f2c446b09039771f38e5c47315aa4854.js",
+    "service-worker.js": "/recognition-catalyst/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/recognition-catalyst/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.17047565.chunk.css.map": "/recognition-catalyst/static/css/main.17047565.chunk.css.map",
+    "static/js/2.bc48dc6c.chunk.js.LICENSE.txt": "/recognition-catalyst/static/js/2.bc48dc6c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.65c6d5b9.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.bc48dc6c.chunk.js",
+    "static/css/main.17047565.chunk.css",
+    "static/js/main.42b254ea.chunk.js"
+  ]
+}
